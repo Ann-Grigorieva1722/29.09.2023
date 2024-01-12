@@ -1,0 +1,15 @@
+C:\Users\fanda\source\repos\29.09\29.09\bin\Debug\29.09.exe.config
+C:\Users\fanda\source\repos\29.09\29.09\bin\Debug\29.09.exe
+C:\Users\fanda\source\repos\29.09\29.09\bin\Debug\29.09.pdb
+C:\Users\fanda\source\repos\29.09\29.09\obj\Debug\29.09.csproj.AssemblyReference.cache
+C:\Users\fanda\source\repos\29.09\29.09\obj\Debug\MainWindow.g.cs
+C:\Users\fanda\source\repos\29.09\29.09\obj\Debug\App.g.cs
+C:\Users\fanda\source\repos\29.09\29.09\obj\Debug\29.09_MarkupCompile.cache
+C:\Users\fanda\source\repos\29.09\29.09\obj\Debug\29.09_MarkupCompile.lref
+C:\Users\fanda\source\repos\29.09\29.09\obj\Debug\MainWindow.baml
+C:\Users\fanda\source\repos\29.09\29.09\obj\Debug\29.09.g.resources
+C:\Users\fanda\source\repos\29.09\29.09\obj\Debug\_29._09.Properties.Resources.resources
+C:\Users\fanda\source\repos\29.09\29.09\obj\Debug\29.09.csproj.GenerateResource.cache
+C:\Users\fanda\source\repos\29.09\29.09\obj\Debug\29.09.csproj.CoreCompileInputs.cache
+C:\Users\fanda\source\repos\29.09\29.09\obj\Debug\29.09.exe
+C:\Users\fanda\source\repos\29.09\29.09\obj\Debug\29.09.pdb
